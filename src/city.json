@@ -1,0 +1,58 @@
+[
+  {
+  "id":"1",
+  "name":"Hyderabad"
+},
+  {
+  "id":"2",
+  "name":"Guntur"
+},
+  {
+  "id":"3",
+  "name":"Vizag"
+},
+  {
+  "id":"4",
+  "name":"Nellore"
+},
+  {
+  "id":"5",
+  "name":"Delhi"
+},
+  {
+  "id":"6",
+  "name":"Chennai"
+},
+  {
+  "id":"7",
+  "name":"Mumbai"
+},
+  {
+  "id":"8",
+  "name":"Pune"
+},
+  {
+  "id":"9",
+  "name":"Goa"
+},
+  {
+  "id":"10",
+  "name":"Bhimavaram"
+},
+  {
+  "id":"11",
+  "name":"Warangal"
+},
+  {
+  "id":"12",
+  "name":"Palnadu"
+},
+  {
+  "id":"13",
+  "name":"Kurnool"
+},
+{
+  "id":"14",
+  "name":"Macherla"
+}
+]
